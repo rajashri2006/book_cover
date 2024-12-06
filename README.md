@@ -105,6 +105,7 @@ Publish the website in the LocalHost.
 # OUTPUT:
 ![book](https://github.com/user-attachments/assets/cd3fdee1-51c4-401e-99ef-703c65cd1b62)
 
+![cover](https://github.com/user-attachments/assets/b15de9f2-9c05-420b-96bd-e80d05894f37)
 
 # RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
